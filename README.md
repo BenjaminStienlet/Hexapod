@@ -10,3 +10,5 @@ for the legs of the hexapod is finished and has also been tested.
 the standard ```pulseIn```-function as this function can take up to 20ms to return a 
 value. This delay is too high when we want to read 6 signals from the radio-controller 
 and also control all 18+ servos.
+
+![Leg prototype](http://i.imgur.com/NbQzrZ5.jpg)
